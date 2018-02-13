@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Version</key>
+	<integer>1</integer>
+	<key>Extension Name</key>
+	<string>YoudaoDict</string>
+	<key>Extension Identifier</key>
+	<string>com.mmj.extension.youdao-dict</string>
+	<key>Extension Description</key>
+	<string>Search selected word by Youdao dict(default to Chinese)</string>
+	<key>Extension Image File</key>
+	<string>dict.png</string>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>AppleScript File</key>
+			<string>dict.applescript</string>
+			<key>Image File</key>
+			<string>dict.png</string>
+			<key>Title</key>
+			<string>Search in Youdao Dict</string>
+		</dict>
+	</array>
+</dict>
+</plist>
